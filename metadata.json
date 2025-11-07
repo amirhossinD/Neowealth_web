@@ -1,0 +1,5 @@
+{
+  "name": "NeoWealth",
+  "description": "A decentralized platform that allows people to invest in startups using cryptocurrency — specifically Neo Coin (NEO) — instead of fiat currency. All data is stored locally, simulating blockchain logic for demo purposes.",
+  "requestFramePermissions": []
+}
